@@ -1,5 +1,9 @@
 # React Native Weather App
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
+
+
+
 This is simple react-native base application which fetch weather using open weather api. This application was build or learning purpose.
 
 Need Expo to run this app.
